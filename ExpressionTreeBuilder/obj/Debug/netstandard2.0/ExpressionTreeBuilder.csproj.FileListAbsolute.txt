@@ -1,0 +1,9 @@
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\obj\Debug\netstandard2.0\ExpressionTreeBuilder.csproj.CoreCompileInputs.cache
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\obj\Debug\netstandard2.0\ExpressionTreeBuilder.AssemblyInfoInputs.cache
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\obj\Debug\netstandard2.0\ExpressionTreeBuilder.AssemblyInfo.cs
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\obj\Debug\netstandard2.0\ExpressionTreeBuilder.csprojResolveAssemblyReference.cache
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\bin\Debug\netstandard2.0\ExpressionTreeBuilder.deps.json
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\bin\Debug\netstandard2.0\ExpressionTreeBuilder.dll
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\bin\Debug\netstandard2.0\ExpressionTreeBuilder.pdb
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\obj\Debug\netstandard2.0\ExpressionTreeBuilder.dll
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilder\obj\Debug\netstandard2.0\ExpressionTreeBuilder.pdb

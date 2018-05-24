@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeBuilder", "ExpressionTreeBuilder\ExpressionTreeBuilder.csproj", "{ED1A9540-4534-43B0-921D-3F509C01D8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeBuilderTests", "ExpressionTreeBuilderTests\ExpressionTreeBuilderTests.csproj", "{C94240B6-6D4E-48A9-A64C-0C30DBE0A779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1A9540-4534-43B0-921D-3F509C01D8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1A9540-4534-43B0-921D-3F509C01D8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1A9540-4534-43B0-921D-3F509C01D8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1A9540-4534-43B0-921D-3F509C01D8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94240B6-6D4E-48A9-A64C-0C30DBE0A779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94240B6-6D4E-48A9-A64C-0C30DBE0A779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94240B6-6D4E-48A9-A64C-0C30DBE0A779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94240B6-6D4E-48A9-A64C-0C30DBE0A779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A920F01E-A53D-4248-8373-627174ACA93F}
+	EndGlobalSection
+EndGlobal

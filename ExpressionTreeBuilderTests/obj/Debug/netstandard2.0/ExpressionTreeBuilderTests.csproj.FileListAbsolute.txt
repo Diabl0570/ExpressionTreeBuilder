@@ -1,0 +1,11 @@
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\bin\Debug\netstandard2.0\ExpressionTreeBuilder.dll
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\obj\Debug\netstandard2.0\ExpressionTreeBuilderTests.csprojResolveAssemblyReference.cache
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\obj\Debug\netstandard2.0\ExpressionTreeBuilderTests.csproj.CoreCompileInputs.cache
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\obj\Debug\netstandard2.0\ExpressionTreeBuilderTests.AssemblyInfoInputs.cache
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\obj\Debug\netstandard2.0\ExpressionTreeBuilderTests.AssemblyInfo.cs
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\bin\Debug\netstandard2.0\ExpressionTreeBuilderTests.deps.json
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\bin\Debug\netstandard2.0\ExpressionTreeBuilderTests.dll
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\bin\Debug\netstandard2.0\ExpressionTreeBuilderTests.pdb
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\bin\Debug\netstandard2.0\ExpressionTreeBuilder.pdb
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\obj\Debug\netstandard2.0\ExpressionTreeBuilderTests.dll
+c:\users\kaspersprengers\source\repos\ExpressionTreeBuilder\ExpressionTreeBuilderTests\obj\Debug\netstandard2.0\ExpressionTreeBuilderTests.pdb
